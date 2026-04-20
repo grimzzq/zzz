@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/YOUR_REPO_NAME/',   // 👈 IMPORTANT
+  base: '/zzz/',
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
